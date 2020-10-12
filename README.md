@@ -1,5 +1,7 @@
 # NoBroker_Automation
 
+NoBroker_Automation is a Mobile Hybrid Automation framework which follows Page Object Model and Produce beautiful HTML Reports with screenshots.
+
 NoBroker_Project - comes under project directory.
 
 EXTENT REPORTS/ DATE / PAGE - CONTAINS THE HTML RESULT FILE WITH SCREENSHOTS FOLDER
